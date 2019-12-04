@@ -22,7 +22,7 @@ Dans ce dossier, l'équipe projet devra stocker tous les scripts Selenium Webdri
 Liste des contributeurs
 1/
 2/
-3/
+3/Fatiha Belal
 4/
 5/
 6/
